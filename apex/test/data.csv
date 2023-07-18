@@ -1,0 +1,401 @@
+image_id,street,citi,n_citi,bed,bath,sqft,price
+15001,952 Blaine Avenue,"Fillmore, CA",118,4,2,1704,549000
+15002,17208 Village 17,"Camarillo, CA",59,2,2,1829,599000
+15003,6 Livermore Avenue,"Ventura, CA",390,3,3,2141,599500
+15004,405 Prospect Street,"Oak View, CA",253,2,1,989,588000
+15005,939 Breton Avenue,"Simi Valley, CA",349,3,2,1693,579500
+15006,125 Conifer Circle,"Oak Park, CA",252,3,2.1,1462,590000
+15007,411 Howell Road,"Oxnard, CA",261,3,1,1120,599000
+15008,1263 Erringer Road,"Simi Valley, CA",349,4,2,1890,569000
+15009,172 Mountain View Street,"Oak View, CA",253,3,2,1248,549000
+15010,422 Fulton Street,"Camarillo, CA",59,4,2,1394,589900
+15011,682 Spring Street,"Oak View, CA",253,2,1,862,549000
+15012,169 La Veta Drive,"Camarillo, CA",59,3,2,1443,589000
+15013,6219 Calle Bodega,"Camarillo, CA",59,4,2,1574,600000
+15014,346 S Victoria Avenue,"Ventura, CA",390,3,2,1333,565000
+15015,59 W Calle El Prado,"Oak View, CA",253,4,2,1584,549000
+15016,840 Fine Street,"Fillmore, CA",118,3,2.1,2539,559000
+15017,209 Cahuenga Drive,"Oxnard, CA",261,1,1,560,599000
+15018,200 S F Street,"Oxnard, CA",261,3,2,1485,599900
+15019,944 Coronado Circle,"Santa Paula, CA",338,3,3,2096,559000
+15020,107 Fraser Lane,"Ventura, CA",390,2,2,1567,570000
+15021,517 Yarrow Drive,"Simi Valley, CA",349,3,2.1,1743,598000
+15022,362 Autumn Path Lane,"Santa Paula, CA",338,4,2.1,2377,562991
+15023,0 H Street,"Oxnard, CA",261,3,2.1,1653,575000
+15024,1611 Patricia Avenue,"Simi Valley, CA",349,3,2,1082,599995
+15025,3139 Trinity Drive,"Ventura, CA",390,3,1,1225,624900
+15026,4192 Apricot Road,"Simi Valley, CA",349,3,2,1661,620000
+15027,376 Calistoga Road,"Camarillo, CA",59,3,3,1790,635000
+15028,7846 LILAC Lane,"Simi Valley, CA",349,2,2,1354,625000
+15029,982 La Vuelta Place,"Santa Paula, CA",338,3,2,2232,609000
+15030,2152 Eastridge Trail,"Oxnard, CA",261,3,2,1642,649900
+15031,2783 Machado Street,"Simi Valley, CA",349,3,2,1303,625000
+15032,2240 Crestmont Drive,"Ventura, CA",390,3,2,1216,599900
+15033,30101 Village 30,"Camarillo, CA",59,2,2,1907,627000
+15034,1002 Borden Street,"Simi Valley, CA",349,4,3,2222,629900
+15035,1545 E Avenida De Los Arboles,"Thousand Oaks, CA",372,5,3,1819,599000
+15036,545 Murray Avenue,"Camarillo, CA",59,3,2,1576,595000
+15037,1824 Garvin Avenue,"Simi Valley, CA",349,4,3,1957,600000
+15038,425 Vista Del Sol,"Camarillo, CA",59,4,2.1,1828,599000
+15039,33 Nottingham Road,"Westlake Village, CA",401,4,2,1848,598900
+15040,612 Larmier Avenue,"Oak View, CA",253,2,2,1210,649000
+15041,994 Concord Avenue,"Ventura, CA",390,4,2,1578,650000
+15042,8871 Tacoma Street,"Ventura, CA",390,3,2,1375,610000
+15043,2525 Waxwing Avenue,"Ventura, CA",390,3,2.1,1794,600000
+15044,1480 E Thompson Boulevard,"Ventura, CA",390,2,1,1056,650000
+15045,9144 Neath Street,"Ventura, CA",390,4,2,1624,599000
+15046,450 Lisbon,"Santa Paula, CA",338,4,3,2688,646990
+15047,6729 Whitewood Street,"Simi Valley, CA",349,4,2,1998,629000
+15048,3754 Eucalyptus Street,"Simi Valley, CA",349,4,2,1888,599950
+15049,613 Bismark Avenue,"Ventura, CA",390,3,2,1350,629450
+15050,794 Coe Street,"Camarillo, CA",59,3,2,1495,627500
+15051,2289 Avenida De Las Plantas,"Thousand Oaks, CA",372,4,2,1544,645000
+15052,1111 Catlin Court,"Simi Valley, CA",349,4,2,1558,599000
+15053,2170 Ironbark Drive,"Oxnard, CA",261,3,2,1479,599000
+15054,1205 Lundy Drive,"Simi Valley, CA",349,3,2,1679,620000
+15055,19215 Village 19,"Camarillo, CA",59,3,2,1889,600000
+15056,99 Reading Street,"Fillmore, CA",118,4,3,2989,609000
+15057,488 Staunton Street,"Camarillo, CA",59,4,2,1348,629000
+15058,2705 Arlene Court,"Simi Valley, CA",349,5,2,1596,599950
+15059,4 E Bonita Drive,"Simi Valley, CA",349,3,2,1696,644000
+15060,15430 Kernvale Avenue,"Moorpark, CA",227,4,2.1,1830,650000
+15061,15663 Ojai Road,"Santa Paula, CA",338,3,2,2149,629000
+15062,1541 Astoria Place,"Oxnard, CA",261,4,2,1971,599000
+15063,1800 Sophia Drive,"Oxnard, CA",261,4,2,1836,623500
+15064,4590 Del Rayo Court,"Camarillo, CA",59,3,2.1,1825,644900
+15065,400 S Dos Caminos Avenue,"Ventura, CA",390,4,2,1300,649000
+15066,176 Green Vale Drive,"Camarillo, CA",59,4,2,1638,639500
+15067,871 Flagstaff Court,"Ventura, CA",390,3,2.1,1592,627500
+15068,572 Galsworthy Street,"Thousand Oaks, CA",372,4,3,1243,599900
+15069,990 Meadowlark Drive,"Fillmore, CA",118,4,3,2010,599900
+15070,2047 Elizondo Avenue,"Simi Valley, CA",349,4,2.1,1725,624950
+15071,20311 Village 20,"Camarillo, CA",59,2,2,1829,610000
+15072,781 Gitano Drive,"Oxnard, CA",261,3,2.1,1890,595000
+15073,2497 Fitzgerald Road,"Simi Valley, CA",349,4,2,1580,595000
+15074,1735 Fitzgerald Road,"Simi Valley, CA",349,4,2,1632,599000
+15075,232 Almon Drive,"Thousand Oaks, CA",372,4,2,1475,650000
+15076,2323 Kentfield Street,"Simi Valley, CA",349,4,2,2015,639900
+15077,732 Nile River Drive,"Oxnard, CA",261,4,3.1,1713,619000
+15078,5976 E Marlies Avenue,"Simi Valley, CA",349,4,2,1826,620000
+15079,9833 Halifax Street,"Ventura, CA",390,3,2.1,1449,644900
+15080,6912 Luther Circle,"Moorpark, CA",227,3,2,1521,599000
+15081,758 Avenida Loma Portal,"Newbury Park, CA",238,4,2,1777,645000
+15082,6036 Gitana Avenue,"Camarillo, CA",59,2,2,1561,599000
+15083,531 Spring Park Road,"Camarillo, CA",59,3,3,1654,638000
+15084,17208 Village 17,"Camarillo, CA",59,2,2,1829,599000
+15085,6 Livermore Avenue,"Ventura, CA",390,3,3,2141,599500
+15086,14620 Hartford Street,"Moorpark, CA",227,4,3,2584,629000
+15087,680 Pacific Cove Drive,"Port Hueneme, CA",291,3,2.1,2073,645000
+15088,411 Howell Road,"Oxnard, CA",261,3,1,1120,599000
+15089,8154 Camp Chaffee Road,"Ventura, CA",390,2,2.1,1775,650000
+15090,172 El Camino Drive,"Ojai, CA",257,3,2,1658,635000
+15091,431 Grand Oak Lane,"Thousand Oaks, CA",372,4,3,1825,634500
+15092,1775 TEMPLE Avenue,"Camarillo, CA",59,4,3,1950,624999
+15093,845 Sapphire Avenue,"Ventura, CA",390,4,3,2457,649900
+15094,6219 Calle Bodega,"Camarillo, CA",59,4,2,1574,600000
+15095,864 Arbor Avenue,"Ventura, CA",390,3,1,1225,609000
+15096,209 Cahuenga Drive,"Oxnard, CA",261,1,1,560,599000
+15097,200 S F Street,"Oxnard, CA",261,3,2,1485,599900
+15098,5346 Cherry Ridge Drive,"Camarillo, CA",59,3,2,1444,625000
+15099,3601 Somis Road,"Somis, CA",352,3,2,1834,629900
+15100,981 Calle Ciruelo,"Thousand Oaks, CA",372,3,2,1309,635000
+15101,1812 Lyndhurst Avenue,"Camarillo, CA",59,3,2,1795,624000
+15102,4259 Adam Road,"Simi Valley, CA",349,3,2,1342,649000
+15103,731 Fairview Road,"Ojai, CA",257,4,2,1485,615000
+15104,923 Ravenwood Avenue,"Newbury Park, CA",238,3,2,1189,639900
+15105,96 Valley Ridge Drive,"Ojai, CA",257,4,2,1440,655000
+15106,246 Azalea Street,"Fillmore, CA",118,4,4.1,3177,626929
+15107,742 Chinook Drive,"Ventura, CA",390,3,2.1,1592,619900
+15108,1811 Adelaide Court,"Oxnard, CA",261,3,2,1854,639000
+15109,517 Yarrow Drive,"Simi Valley, CA",349,3,2.1,1743,598000
+15110,1020 Crown Hill Drive,"Simi Valley, CA",349,3,2.1,1943,649900
+15111,1331 Indigo Place,"Oxnard, CA",261,4,2.1,2032,620000
+15112,1611 Patricia Avenue,"Simi Valley, CA",349,3,2,1082,599995
+15113,2960 Diana Court,"Newbury Park, CA",238,3,2,2141,697000
+15114,2152 Eastridge Trail,"Oxnard, CA",261,3,2,1642,649900
+15115,2485 Knightwood Place,"Simi Valley, CA",349,5,2,2134,679990
+15116,939 N F Street,"Oxnard, CA",261,5,2,2068,675000
+15117,355 Danville Avenue,"Newbury Park, CA",238,3,2,1228,695000
+15118,612 Larmier Avenue,"Oak View, CA",253,2,2,1210,649000
+15119,994 Concord Avenue,"Ventura, CA",390,4,2,1578,650000
+15120,1480 E Thompson Boulevard,"Ventura, CA",390,2,1,1056,650000
+15121,658 Calle Clavel,"Thousand Oaks, CA",372,4,3,1485,658000
+15122,450 Lisbon,"Santa Paula, CA",338,4,3,2688,646990
+15123,6744 Cowgirl Court,"Simi Valley, CA",349,5,3,2115,689000
+15124,24139 Village 24,"Camarillo, CA",59,2,2,1498,699975
+15125,2289 Avenida De Las Plantas,"Thousand Oaks, CA",372,4,2,1544,645000
+15126,1714 Pelican Avenue,"Ventura, CA",390,4,2.1,2421,677000
+15127,10667 Orange Circle,"Ventura, CA",390,4,2.1,2240,699999
+15128,1626 Sweet Briar Place,"Thousand Oaks, CA",372,4,2,1750,699900
+15129,578 Louis Drive,"Newbury Park, CA",238,4,2,2000,663000
+15130,2161 Yosemite Avenue,"Simi Valley, CA",349,5,2.1,2337,659000
+15131,667 Owens River Drive,"Oxnard, CA",261,4,3,2259,694500
+15132,670 Whalen Way,"Oxnard, CA",261,4,3,2133,699000
+15133,2087 Stoneman Street,"Simi Valley, CA",349,4,2,1800,659849
+15134,923 Santa Ana Boulevard,"Oak View, CA",253,4,2,1707,689000
+15135,15430 Kernvale Avenue,"Moorpark, CA",227,4,2.1,1830,650000
+15136,12353 Sunnyglen Drive,"Moorpark, CA",227,4,2.1,1970,689000
+15137,400 S Dos Caminos Avenue,"Ventura, CA",390,4,2,1300,649000
+15138,916 Olympia Avenue,"Ventura, CA",390,4,2,1700,680000
+15139,13246 Elmrock Avenue,"Moorpark, CA",227,4,2,1697,699000
+15140,4813 Monument Street,"Simi Valley, CA",349,4,3,2407,679000
+15141,877 Birch Hill Street,"Newbury Park, CA",238,3,2,1672,699000
+15142,436 Montebello Avenue,"Ventura, CA",390,4,2.1,2176,699999
+15143,7341 Coati Place,"Ventura, CA",390,4,2.2,2353,699500
+15144,532 Fairfield Road,"Simi Valley, CA",349,4,2.1,1912,679000
+15145,5961 Joshua Trail,"Camarillo, CA",59,4,2.1,2122,699900
+15146,2083 Woodglen Street,"Simi Valley, CA",349,5,2,2098,699614
+15147,2373 Morley Street,"Simi Valley, CA",349,4,2.1,2695,699900
+15148,667 Whalen Way,"Oxnard, CA",261,4,3,2133,664900
+15149,193 S Ventu Park Road,"Newbury Park, CA",238,4,3,2359,699000
+15150,3321 Jessica Street,"Newbury Park, CA",238,4,2.1,1883,699000
+15151,10835 Galvin Street,"Ventura, CA",390,4,2.1,2205,659000
+15152,232 Almon Drive,"Thousand Oaks, CA",372,4,2,1475,650000
+15153,874 Logan Avenue,"Ventura, CA",390,4,2.1,1577,679000
+15154,758 Avenida Loma Portal,"Newbury Park, CA",238,4,2,1777,645000
+15155,605 Galloping Hill Road,"Simi Valley, CA",349,3,2.1,1716,669000
+15156,344 Cahuenga Drive,"Oxnard, CA",261,2,1,703,668000
+15157,6420 WINONA Court,"Oak Park, CA",252,3,2.1,1785,699999
+15158,525 Brossard Drive,"Thousand Oaks, CA",372,3,2,1375,669000
+15159,680 Pacific Cove Drive,"Port Hueneme, CA",291,3,2.1,2073,645000
+15160,6388 Menlo Street,"Simi Valley, CA",349,4,2.1,2622,675000
+15161,8154 Camp Chaffee Road,"Ventura, CA",390,2,2.1,1775,650000
+15162,170 SEASPRAY Way,"Port Hueneme, CA",291,3,2,1464,699000
+15163,585 Donizetti Avenue,"Ventura, CA",390,3,2.1,1834,679999
+15164,1185 Heatherview Drive,"Oak Park, CA",252,3,2.1,1366,699999
+15165,228 Galway Lane,"Simi Valley, CA",349,3,3,2229,669000
+15166,845 Sapphire Avenue,"Ventura, CA",390,4,3,2457,649900
+15167,2173 Eastridge Trail,"Oxnard, CA",261,5,2.1,2275,685000
+15168,1223 Fierro Drive,"Ojai, CA",257,4,2,1311,689000
+15169,3343 William Drive,"Newbury Park, CA",238,4,2,1906,685000
+15170,2431 Cedarwood Circle,"Simi Valley, CA",349,4,2,1778,664000
+15171,2162 Larch Street,"Simi Valley, CA",349,5,2.1,2498,699900
+15172,84 ESTATES Avenue,"Ventura, CA",390,4,2,1406,684900
+15173,321 Lakeview Court,"Oxnard, CA",261,4,3,2445,679000
+15174,3161 Armada Drive,"Ventura, CA",390,4,2,1309,699000
+15175,600 Xanadu Way,"Oxnard, CA",261,4,3,2133,679000
+15176,4259 Adam Road,"Simi Valley, CA",349,3,2,1342,649000
+15177,2703 Lakewood Place,"Westlake Village, CA",401,2,2,1231,699000
+15178,96 Valley Ridge Drive,"Ojai, CA",257,4,2,1440,655000
+15179,6776 Ojai Avenue,"La Conchita, CA",166,2,2.1,1335,695000
+15180,11531 Willowood Court,"Moorpark, CA",227,4,2,2242,684900
+15181,885 Laramie Court,"Newbury Park, CA",238,3,2,1571,669000
+15182,1020 Crown Hill Drive,"Simi Valley, CA",349,3,2.1,1943,649900
+15183,2690 Theresa Street,"Newbury Park, CA",238,3,3,1946,669000
+15184,6709 Breakers Way,"Ventura, CA",390,1,1,352,699000
+15185,2960 Diana Court,"Newbury Park, CA",238,3,2,2141,697000
+15186,2310 Bayhill Court,"Oxnard, CA",261,3,2,1692,731414
+15187,412 Fallbrook Avenue,"Newbury Park, CA",238,3,3,1969,724950
+15188,355 Danville Avenue,"Newbury Park, CA",238,3,2,1228,695000
+15189,1526 Andrea Circle,"Simi Valley, CA",349,6,2.1,2695,719950
+15190,24139 Village 24,"Camarillo, CA",59,2,2,1498,699975
+15191,2339 Burnside Street,"Simi Valley, CA",349,5,3,3089,715000
+15192,2527 Ciro Circle,"Thousand Oaks, CA",372,4,2,1890,750000
+15193,2397 Seagull Avenue,"Ventura, CA",390,4,2.1,2246,707000
+15194,641 Riviera Court,"Oxnard, CA",261,3,2,1910,729900
+15195,10667 Orange Circle,"Ventura, CA",390,4,2.1,2240,699999
+15196,2012 Buena Vista Drive,"Camarillo, CA",59,3,2,1605,725000
+15197,2768 Belbrook Place,"Simi Valley, CA",349,5,3,2498,729995
+15198,1423 Lorena Drive,"Oxnard, CA",261,4,3,2665,749000
+15199,1626 Sweet Briar Place,"Thousand Oaks, CA",372,4,2,1750,699900
+15200,670 Whalen Way,"Oxnard, CA",261,4,3,2133,699000
+15201,2277 E Brower Street,"Simi Valley, CA",349,5,3.1,2695,729999
+15202,4343 Avenida Simi,"Simi Valley, CA",349,6,3.1,2494,720000
+15203,13246 Elmrock Avenue,"Moorpark, CA",227,4,2,1697,699000
+15204,877 Birch Hill Street,"Newbury Park, CA",238,3,2,1672,699000
+15205,436 Montebello Avenue,"Ventura, CA",390,4,2.1,2176,699999
+15206,3514 Dunkirk Drive,"Oxnard, CA",261,3,2,1910,727008
+15207,Address not provided,"Camarillo, CA",59,4,3,2200,709000
+15208,357 Highland Drive,"Oxnard, CA",261,3,3,1812,714900
+15209,2263 Glenbrook Avenue,"Camarillo, CA",59,5,2.1,2224,714900
+15210,7341 Coati Place,"Ventura, CA",390,4,2.2,2353,699500
+15211,1516 Regent Street,"Camarillo, CA",59,5,3,1837,735000
+15212,623 Xanadu Way,"Oxnard, CA",261,5,3,2338,715000
+15213,5961 Joshua Trail,"Camarillo, CA",59,4,2.1,2122,699900
+15214,705 E Oak Street,"Ojai, CA",257,3,1.1,1100,749000
+15215,2083 Woodglen Street,"Simi Valley, CA",349,5,2,2098,699614
+15216,2373 Morley Street,"Simi Valley, CA",349,4,2.1,2695,699900
+15217,193 S Ventu Park Road,"Newbury Park, CA",238,4,3,2359,699000
+15218,2857 Golf Villa Way,"Camarillo, CA",59,3,2.1,2036,729000
+15219,2650 Trenley Court,"Simi Valley, CA",349,4,2.1,2212,739000
+15220,1157 4th Street,"Simi Valley, CA",349,5,3,2300,735000
+15221,3321 Jessica Street,"Newbury Park, CA",238,4,2.1,1883,699000
+15222,23216 Village 23,"Camarillo, CA",59,2,2,1800,739900
+15223,2338 Nicklaus St.,"Oxnard, CA",261,4,2.1,2703,747000
+15224,1151 Via Carranza,"Camarillo, CA",59,3,2,1639,729900
+15225,1245 Calle Pensamiento,"Thousand Oaks, CA",372,3,3,2019,739999
+15226,12421 Willow Forest Drive,"Moorpark, CA",227,4,3,2701,735000
+15227,1130 N Ventura Avenue,"Oak View, CA",253,4,2.1,1990,717000
+15228,6420 WINONA Court,"Oak Park, CA",252,3,2.1,1785,699999
+15229,79 Madera Avenue,"Ventura, CA",390,3,1.1,1174,734900
+15230,6659 Pinnacle Way,"Moorpark, CA",227,5,2.1,2826,754900
+15231,12616 Country Meadow Street,"Moorpark, CA",227,4,2.1,2645,749999
+15232,278 Redfield Avenue,"Newbury Park, CA",238,4,2.1,2578,737500
+15233,170 SEASPRAY Way,"Port Hueneme, CA",291,3,2,1464,699000
+15234,165 Bramble Court,"Camarillo, CA",59,5,3,2311,750000
+15235,1185 Heatherview Drive,"Oak Park, CA",252,3,2.1,1366,699999
+15236,941 Tuttle Avenue,"Simi Valley, CA",349,4,2.1,2140,714000
+15237,2162 Larch Street,"Simi Valley, CA",349,5,2.1,2498,699900
+15238,1295 Bella Vista Road,"Simi Valley, CA",349,4,3,2970,729900
+15239,301 Park Road,"Ojai, CA",257,3,2,1389,755000
+15240,148 Seaspray Way,"Port Hueneme, CA",291,3,3,1706,749000
+15241,3355 Kings Canyon Drive,"Oxnard, CA",261,4,4,2459,729990
+15242,3161 Armada Drive,"Ventura, CA",390,4,2,1309,699000
+15243,3661 Calle Quebracho,"Thousand Oaks, CA",372,4,2,1746,749900
+15244,2703 Lakewood Place,"Westlake Village, CA",401,2,2,1231,699000
+15245,431 Alosta Drive,"Camarillo, CA",59,3,2,1604,749000
+15246,3517 Pear Court,"Simi Valley, CA",349,3,2,2102,749990
+15247,2735 Via Corza,"Camarillo, CA",59,5,2.1,2214,724000
+15248,6776 Ojai Avenue,"La Conchita, CA",166,2,2.1,1335,695000
+15249,11504 Oakcrest Avenue,"Ojai, CA",257,5,3,2463,750000
+15250,6709 Breakers Way,"Ventura, CA",390,1,1,352,699000
+15251,258 Mesa Avenue,"Newbury Park, CA",238,4,2,2016,805000
+15252,3880 Sunsetridge Road,"Moorpark, CA",227,4,3,2200,765000
+15253,525 E Main Street,"Santa Paula, CA",338,6,4.1,2801,760000
+15254,6643 Maplegrove Street,"Oak Park, CA",252,3,2,1680,760000
+15255,9614 Sulphur Mountain Road,"Ojai, CA",257,2,1,884,775000
+15256,1513 Oberlin Avenue,"Thousand Oaks, CA",372,5,3,2258,799000
+15257,2187 Meadow Brook Court,"Thousand Oaks, CA",372,3,2,1646,769000
+15258,935 NEWBURY Road,"Newbury Park, CA",238,4,2,2088,770000
+15259,6579 Fishers Court,"Moorpark, CA",227,5,3.1,3220,799000
+15260,2527 Ciro Circle,"Thousand Oaks, CA",372,4,2,1890,750000
+15261,1428 Sapphire Dragon Street,"Thousand Oaks, CA",372,3,2.1,1986,789000
+15262,665 Camino De La Luz,"Newbury Park, CA",238,3,2,1609,759000
+15263,3069 Moonstone Avenue,"Simi Valley, CA",349,4,3,2502,775000
+15264,39 S Kalorama Street,"Ventura, CA",390,4,2,1470,779000
+15265,1423 Lorena Drive,"Oxnard, CA",261,4,3,2665,749000
+15266,3817 SUNSET Lane,"Oxnard, CA",261,2,1,928,799000
+15267,897 Bright Star Street,"Thousand Oaks, CA",372,4,3,1938,769000
+15268,2787 N Atherwood Avenue,"Simi Valley, CA",349,5,2.1,3180,797777
+15269,345 Hollywood Boulevard,"Oxnard, CA",261,3,1,1232,775000
+15270,182 Seaspray Way,"Port Hueneme, CA",291,3,2.1,1780,799000
+15271,261 Triangle Street,"Thousand Oaks, CA",372,4,3,2050,775000
+15272,2653 Nutmeg Circle,"Simi Valley, CA",349,5,3,2692,799900
+15273,2242 Scenicpark Street,"Thousand Oaks, CA",372,4,2.1,1838,765000
+15274,1818 La Granada Drive,"Thousand Oaks, CA",372,3,2,1633,759000
+15275,705 E Oak Street,"Ojai, CA",257,3,1.1,1100,749000
+15276,4376 Camino De La Rosa,"Newbury Park, CA",238,4,3,1988,799900
+15277,741 Knollwood Drive,"Newbury Park, CA",238,4,3,2006,799000
+15278,321 Frances Street,"Ventura, CA",390,3,2,1683,775000
+15279,2520 Balboa Street,"Oxnard, CA",261,3,1,1038,799999
+15280,2338 Nicklaus St.,"Oxnard, CA",261,4,2.1,2703,747000
+15281,4251 Eve Road,"Simi Valley, CA",349,5,3,2450,799950
+15282,110 Blair Court,"Newbury Park, CA",238,3,2,1811,779000
+15283,264 Larcom Street,"Thousand Oaks, CA",372,5,2.1,2852,799900
+15284,6659 Pinnacle Way,"Moorpark, CA",227,5,2.1,2826,754900
+15285,12616 Country Meadow Street,"Moorpark, CA",227,4,2.1,2645,749999
+15286,1923 S Hill Road,"Ventura, CA",390,3,2.1,2573,759000
+15287,165 Bramble Court,"Camarillo, CA",59,5,3,2311,750000
+15288,3079 Choctaw Avenue,"Simi Valley, CA",349,4,3,2490,798000
+15289,1837 Seasons Street,"Simi Valley, CA",349,4,3,2907,799000
+15290,1826 Winterdew Avenue,"Simi Valley, CA",349,4,3,2287,805000
+15291,301 Park Road,"Ojai, CA",257,3,2,1389,755000
+15292,148 Seaspray Way,"Port Hueneme, CA",291,3,3,1706,749000
+15293,501 Vallerio Avenue,"Ojai, CA",257,3,2,1893,799999
+15294,2331 Diamond Head Way,"Oxnard, CA",261,4,2.1,2312,775000
+15295,3661 Calle Quebracho,"Thousand Oaks, CA",372,4,2,1746,749900
+15296,370 Castilian,"Thousand Oaks, CA",372,4,2,2127,760000
+15297,949 Calle Ruiz,"Thousand Oaks, CA",372,4,2.1,2241,799999
+15298,431 Alosta Drive,"Camarillo, CA",59,3,2,1604,749000
+15299,3517 Pear Court,"Simi Valley, CA",349,3,2,2102,749990
+15300,4506 El Corazon Court,"Camarillo, CA",59,4,3,2567,779000
+15301,1895 Dewayne Avenue,"Camarillo, CA",59,5,3,2546,759999
+15302,2019 Newcastle Drive,"Oxnard, CA",261,6,4,3401,799000
+15303,11504 Oakcrest Avenue,"Ojai, CA",257,5,3,2463,750000
+15304,2328 Nicklaus Street,"Oxnard, CA",261,4,3.1,3036,789000
+15305,696 Via,"Newbury Park, CA",238,3,2.1,2170,875000
+15306,2777 Limestone Drive,"Thousand Oaks, CA",372,3,2.1,1857,824500
+15307,258 Mesa Avenue,"Newbury Park, CA",238,4,2,2016,805000
+15308,13849 Eaton Hollow Avenue,"Moorpark, CA",227,4,2.1,2600,849900
+15309,2632 Capella Way,"Thousand Oaks, CA",372,5,3,2848,899950
+15310,3014 Dove Canyon Drive,"Oxnard, CA",261,3,2.1,3164,850000
+15311,227 Lynn Drive,"Ventura, CA",390,4,2,1488,849000
+15312,419 Queensbury Street,"Thousand Oaks, CA",372,4,2,2373,849000
+15313,1513 Oberlin Avenue,"Thousand Oaks, CA",372,5,3,2258,799000
+15314,742 Arvada Court,"Simi Valley, CA",349,5,3,2577,869000
+15315,4618 Nannyberry Court,"Moorpark, CA",227,4,4.1,3412,859000
+15316,300 Hickory Grove Drive,"Thousand Oaks, CA",372,4,2.1,2035,890000
+15317,4769 Westwood Street,"Simi Valley, CA",349,4,3,3205,874900
+15318,1242 Sunnycrest Avenue,"Ventura, CA",390,4,2.1,2246,899000
+15319,262 Twin Falls Court,"Newbury Park, CA",238,3,2,1811,899800
+15320,2804 Wasatch Court,"Westlake Village, CA",401,3,2,1699,899000
+15321,4855 Corte Olivas,"Camarillo, CA",59,3,2.1,2803,839900
+15322,2566 Renata Court,"Thousand Oaks, CA",372,3,2.1,2007,875000
+15323,6579 Fishers Court,"Moorpark, CA",227,5,3.1,3220,799000
+15324,388 Calle Higuera,"Camarillo, CA",59,4,2.1,2747,899000
+15325,3064 Foothill Drive,"Thousand Oaks, CA",372,4,2,1609,835000
+15326,1739 Amarelle Street,"Newbury Park, CA",238,5,3,2355,865000
+15327,1398 Breckford Court,"Westlake Village, CA",401,4,2,1879,855000
+15328,3817 SUNSET Lane,"Oxnard, CA",261,2,1,928,799000
+15329,209 HIGHLAND Drive,"Oxnard, CA",261,3,3.1,2012,899000
+15330,1102 Hendrix Avenue,"Thousand Oaks, CA",372,3,2.1,1931,899000
+15331,13624 Silver Oak Lane,"Moorpark, CA",227,4,3,2996,859900
+15332,2787 N Atherwood Avenue,"Simi Valley, CA",349,5,2.1,3180,797777
+15333,428 Calle Veracruz,"Newbury Park, CA",238,4,2.1,2391,875000
+15334,1188 Calle Contento,"Thousand Oaks, CA",372,4,2,2152,845000
+15335,2240 Southern Hill Drive,"Oxnard, CA",261,4,2.1,2649,825000
+15336,419 Willow Glen Circle,"Simi Valley, CA",349,5,4.1,3180,865000
+15337,182 Seaspray Way,"Port Hueneme, CA",291,3,2.1,1780,799000
+15338,2451 Dillon Court,"Thousand Oaks, CA",372,4,3,1923,828000
+15339,2653 Nutmeg Circle,"Simi Valley, CA",349,5,3,2692,799900
+15340,1393 Cordova Court,"Camarillo, CA",59,4,3.1,2370,839000
+15341,2130 Bevra Avenue,"Oxnard, CA",261,5,3.1,3067,899000
+15342,4004 Avenida Verano,"Thousand Oaks, CA",372,4,3.1,2615,899000
+15343,1565 Loma Drive,"Ojai, CA",257,3,2,1226,824900
+15344,59 W Janss Road,"Thousand Oaks, CA",372,5,2,2085,874900
+15345,465 Savona Way,"Oak Park, CA",252,4,2.1,2038,880000
+15346,2514 Renata Court,"Thousand Oaks, CA",372,4,2.1,2434,899900
+15347,108 Santa Ana Avenue,"Oxnard, CA",261,3,3,1268,899000
+15348,825 Calle Cedro,"Thousand Oaks, CA",372,6,4.1,2307,835000
+15349,4376 Camino De La Rosa,"Newbury Park, CA",238,4,3,1988,799900
+15350,741 Knollwood Drive,"Newbury Park, CA",238,4,3,2006,799000
+15351,815 Triunfo Canyon Road,"Westlake Village, CA",401,4,2.1,1948,867000
+15352,349 Fox Ridge Drive,"Thousand Oaks, CA",372,4,2.1,2721,895000
+15353,2520 Balboa Street,"Oxnard, CA",261,3,1,1038,799999
+15354,4251 Eve Road,"Simi Valley, CA",349,5,3,2450,799950
+15355,1668 Daphne Street,"Camarillo, CA",59,4,2.1,2614,819000
+15356,4325 Admiral Way,"Oxnard, CA",261,3,2.1,2430,899000
+15357,330 Cheerful Court,"Simi Valley, CA",349,4,3,1983,899000
+15358,264 Larcom Street,"Thousand Oaks, CA",372,5,2.1,2852,799900
+15359,4134 Santa Rosa Drive,"Moorpark, CA",227,6,4,4352,839000
+15360,1113 Winthrop Lane,"Ventura, CA",390,2,1,811,880000
+15361,3196 Versaille Court,"Thousand Oaks, CA",372,4,3.1,3347,899999
+15362,692 Corte Sol,"Camarillo, CA",59,4,3.1,3046,884900
+15363,2108 Glen Eagles Court,"Oxnard, CA",261,4,3.1,2624,829000
+15364,5997 Wheeler Canyon Road,"Santa Paula, CA",338,3,2,1561,895000
+15365,2479 Chaucer Place,"Thousand Oaks, CA",372,4,3,2673,879888
+15366,14355 Shawnee Street,"Moorpark, CA",227,5,3.1,3089,849000
+15367,10808 Creek Road,"Ojai, CA",257,3,2,1732,899000
+15368,86 Arnaz Drive,"Oak View, CA",253,3,2.1,2637,839000
+15369,248 Whitecap Court,"Port Hueneme, CA",291,3,2.1,1544,825000
+15370,1248 Nonchalant Drive,"Simi Valley, CA",349,4,2,1958,850000
+15371,685 Starbright Court,"Simi Valley, CA",349,4,3,3020,899900
+15372,168 Forrester Court,"Simi Valley, CA",349,5,4,2914,849000
+15373,587 Winncastle Street,"Simi Valley, CA",349,5,3,3165,884900
+15374,4438 Camino De Las Estrellas,"Newbury Park, CA",238,5,3,2615,869000
+15375,4023 Galapagos Way,"Oxnard, CA",261,5,3,2851,895000
+15376,164 Mainsail Court,"Port Hueneme, CA",291,2,2,1197,829900
+15377,6618 Smoke Tree Avenue,"Oak Park, CA",252,4,3,2212,884450
+15378,3079 Choctaw Avenue,"Simi Valley, CA",349,4,3,2490,798000
+15379,4901 Marlin Way,"Oxnard, CA",261,3,2,1784,865000
+15380,1837 Seasons Street,"Simi Valley, CA",349,4,3,2907,799000
+15381,1826 Winterdew Avenue,"Simi Valley, CA",349,4,3,2287,805000
+15382,855 Oso Road,"Ojai, CA",257,3,2,1344,829000
+15383,1590 Meander Drive,"Simi Valley, CA",349,4,3,2131,824500
+15384,3367 Montagne Way,"Thousand Oaks, CA",372,4,3,2987,869000
+15385,501 Vallerio Avenue,"Ojai, CA",257,3,2,1893,799999
+15386,249 Calle Navarro,"Camarillo, CA",59,4,3.1,3336,829000
+15387,33 Carriage Square,"Oxnard, CA",261,4,4,3589,875000
+15388,1516 E Thompson Boulevard,"Ventura, CA",390,3,2,1233,845000
+15389,1326 Estuary Way,"Oxnard, CA",261,3,2.1,2619,834900
+15390,1475 Forest Drive,"Santa Paula, CA",338,3,0,2625,840000
+15391,1445 Forest Drive,"Santa Paula, CA",338,3,0,2924,825000
+15392,125 Camino La Madera,"Camarillo, CA",59,5,3,3156,845000
+15393,653 Coppertree Court,"Simi Valley, CA",349,4,3,3168,899000
+15394,949 Calle Ruiz,"Thousand Oaks, CA",372,4,2.1,2241,799999
+15395,1463 Calle Colina,"Thousand Oaks, CA",372,5,3,2773,819000
+15396,88 Fallen Oaks Drive,"Thousand Oaks, CA",372,4,3,2402,839900
+15397,215 Burnham Road,"Oak View, CA",253,5,3,2672,825000
+15398,4265 Apricot Road,"Simi Valley, CA",349,3,2,1879,899900
+15399,4032 Farralon Way,"Oxnard, CA",261,3,2.1,2619,844000
+15400,2019 Newcastle Drive,"Oxnard, CA",261,6,4,3401,799000

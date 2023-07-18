@@ -1,0 +1,74 @@
+image_id,street,citi,n_citi,bed,bath,sqft,price
+765,780 Calle Las Colinas,"Newbury Park, CA",238,4,2.1,2582,
+25,1436 Montgomery Road,"Thousand Oaks, CA",372,4,2.1,2704,
+87,4931 BARBADOS Court,"Oak Park, CA",252,4,3,2216,
+260,364 Santa Monica Drive,"Oxnard, CA",261,3,3,2446,
+695,1440 Forest Drive,"Santa Paula, CA",338,3,3,2625,
+670,2882 Evesham Avenue,"Thousand Oaks, CA",372,4,3,2568,
+42,1777 Bates Court,"Thousand Oaks, CA",372,4,3,2465,
+718,109 Los Angeles Avenue,"Oxnard, CA",261,2,3,1508,
+399,2632 Capella Way,"Thousand Oaks, CA",372,5,3,2848,
+984,19 La Paz Court,"Simi Valley, CA",349,5,4.2,4073,
+219,1987 Campbell Avenue,"Thousand Oaks, CA",372,4,3,2740,
+486,479 Pesaro Street,"Oak Park, CA",252,3,2.1,1694,
+626,752 Silver Cloud Street,"Thousand Oaks, CA",372,5,3.1,2831,
+492,1242 Sunnycrest Avenue,"Ventura, CA",390,4,2.1,2246,
+729,1576 Valecroft Avenue,"Westlake Village, CA",401,3,2.1,2304,
+605,5589 N Heatherton Drive,"Somis, CA",352,4,3,2902,
+3,262 Twin Falls Court,"Newbury Park, CA",238,3,2,1811,
+840,2804 Wasatch Court,"Westlake Village, CA",401,3,2,1699,
+580,388 Calle Higuera,"Camarillo, CA",59,4,2.1,2747,
+654,109 La Crescenta Street,"Oxnard, CA",261,3,2,1535,
+491,692 Via Vista,"Newbury Park, CA",238,5,3,3106,
+495,4066 Calle Mira Monte,"Newbury Park, CA",238,4,3,2967,
+643,4044 Eagle Flight Drive,"Simi Valley, CA",349,4,4.1,3973,
+420,209 HIGHLAND Drive,"Oxnard, CA",261,3,3.1,2012,
+9,1102 Hendrix Avenue,"Thousand Oaks, CA",372,3,2.1,1931,
+76,4586 Via Laguna,"Newbury Park, CA",238,4,3,3121,
+749,3038 Shadow Hill Circle,"Thousand Oaks, CA",372,4,2.1,2532,
+136,1246 Encino Vista Court,"Thousand Oaks, CA",372,3,3,2464,
+332,3078 Blazing Star Drive,"Thousand Oaks, CA",372,4,3,2626,
+483,2130 Bevra Avenue,"Oxnard, CA",261,5,3.1,3067,
+416,4004 Avenida Verano,"Thousand Oaks, CA",372,4,3.1,2615,
+766,4280 Presidio Drive,"Simi Valley, CA",349,4,3.1,3324,
+748,2854 Arbella Lane,"Thousand Oaks, CA",372,4,3,2632,
+264,2514 Renata Court,"Thousand Oaks, CA",372,4,2.1,2434,
+285,108 Santa Ana Avenue,"Oxnard, CA",261,3,3,1268,
+148,349 Aliso Street,"Ventura, CA",390,4,2,1628,
+141,4270 Avenida Prado,"Thousand Oaks, CA",372,6,3,2773,
+299,349 Fox Ridge Drive,"Thousand Oaks, CA",372,4,2.1,2721,
+835,4134 Galapagos Way,"Oxnard, CA",261,3,2.1,2619,
+72,3417 Hazelnut Court,"Simi Valley, CA",349,4,2.1,,949900
+477,4325 Admiral Way,"Oxnard, CA",261,3,2.1,,899000
+628,3685 Legends Drive,"Simi Valley, CA",349,5,4.1,,955000
+186,330 Cheerful Court,"Simi Valley, CA",349,4,3,,899000
+710,3196 Versaille Court,"Thousand Oaks, CA",372,4,3.1,,899999
+989,1504 Arroyo View Street,"Newbury Park, CA",238,3,2,,999000
+884,3130 Renee Court,"Simi Valley, CA",349,5,3,,974499
+796,5590 Mulberry Ridge Drive,"Camarillo, CA",59,5,3.1,,989900
+541,510 Monte Vista Drive,"Santa Paula, CA",338,3,2.1,,959000
+722,5997 Wheeler Canyon Road,"Santa Paula, CA",338,3,2,,895000
+976,10808 Creek Road,"Ojai, CA",257,3,2,,899000
+795,4615 Falkirk Bay,"Oxnard, CA",261,2,2,,915900
+120,1575 Applefield Street,"Thousand Oaks, CA",372,3,3,,949900
+857,685 Starbright Court,"Simi Valley, CA",349,4,3,,899900
+601,4023 Galapagos Way,"Oxnard, CA",261,5,3,,895000
+6,256 Ocho Rios Way,"Oak Park, CA",252,5,2.1,,919900
+59,290 N Ventura Avenue,"Oak View, CA",253,3,3,,980000
+273,3660 Gazebo Lane,"Camarillo, CA",59,4,3,,989000
+110,421 Loma Drive,"Camarillo, CA",59,5,3,,955000
+288,1269 Weymouth Lane,"Ventura, CA",390,3,1,,990000
+484,267 Goldenwood Circle,"Simi Valley, CA",349,4,3,,955000
+742,1455 Forest Drive,"Santa Paula, CA",338,3,3,,920000
+214,653 Coppertree Court,"Simi Valley, CA",349,4,3,,899000
+394,5229 Carmento Drive,"Oak Park, CA",252,5,4,,974900
+170,108 Crest Court,"Simi Valley, CA",349,4,4,,968900
+387,4265 Apricot Road,"Simi Valley, CA",349,3,2,,899900
+201,2349 Palomar Avenue,"Ventura, CA",390,3,3,,999950
+589,2032 Keltic Lodge Drive,"Oxnard, CA",261,5,3.1,,975000
+62,1436 Montgomery Road,"Thousand Oaks, CA",372,4,2.1,,899900
+890,4156 Sterlingview Drive,"Moorpark, CA",227,5,4.1,,949000
+915,4355 Avenida Prado,"Thousand Oaks, CA",372,5,3,,949900
+109,12717 Koenigstein Rd Road,"Santa Paula, CA",338,3,2,,920000
+461,36 Kunkle Street,"Oak View, CA",253,4,2,,997000
+302,4562 Eastbourne Bay,"Oxnard, CA",261,2,2,,975000
